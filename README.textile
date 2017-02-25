@@ -1,0 +1,1 @@
+Scraper to facilitate visualization, browsing, and non-standard search of the ORESTAR campaign finance database.
